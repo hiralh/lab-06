@@ -9,6 +9,7 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+!/build/dokka/
 /captures
 .externalNativeBuild
 .cxx
